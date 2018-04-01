@@ -1,3 +1,7 @@
+
+**demo**: [blog-admin]
+(https://192.168.0.102:3000/index.html)
+
 # blog
 
 > A Vue.js project
@@ -17,5 +21,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+server api use axios by  [https://github.com/GaoHawk/blog-server](https://github.com/GaoHawk/blog-server)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

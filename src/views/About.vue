@@ -18,10 +18,13 @@
                 <strong>学习新东西试着写的个人博客</strong>
                 <br>
                 <p style="margin-bottom: 20px;padding-top: 20px;">
-                  github地址 : <a href="https://github.com/JhonXY/vue-blog">https://github.com/JhonXY/vue-blog</a>
+                  blog项目地址 : <a href="https://github.com/GaoHawk/my-blog">https://github.com/GaoHawk/my-blog</a>
                 </p>
                 <p style="margin-bottom: 20px;">
-                  server部分地址: <a href="https://github.com/JhonXY/vue-blog-server">https://github.com/JhonXY/vue-blog-server</a>
+                  server部分地址: <a href="https://github.com/GaoHawk/blog-server">https://github.com/GaoHawk/blog-server</a>
+                </p>
+                <p style="margin-bottom: 20px;">
+                  后台管理地址: <a href="https://github.com/GaoHawk/blog-admin">https://github.com/GaoHawk/blog-admin</a>
                 </p>
                 <img src="/static/bingguo.jpg" alt="我很好奇">
               </div>
