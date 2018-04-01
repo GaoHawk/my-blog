@@ -1,6 +1,6 @@
 
 **demo**: [blog-admin]
-(https://192.168.0.102:3000/index.html)
+(https://localhost:3000/index.html)
 
 # blog
 
