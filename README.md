@@ -1,6 +1,7 @@
 
-**demo**: [blog-admin]
-(https://localhost:3000/index.html)
+**demo**:
+This is a project [blog](http://www.gg-gaohawk.top:3000/)
+
 
 # blog
 

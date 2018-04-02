@@ -17,14 +17,14 @@
           <side-section>
             <div slot="sidecontent">
               <h3>
-                <a href="">GaoHawk</a>
+                <a href ="javascript:return false;" onclick="return false;">GaoHawk</a>
                 <span class="cat-desc">Just A Coding Peasant</span>
               </h3>
               <div class="pres">
-              <a href="" class="pic">
+              <a href ="javascript:return false;" onclick="return false;" class="pic">
               <img src="/static/avatar.jpg" alt="我的头像">
               </a>
-              <a href="" class="detail">
+              <a href ="javascript:return false;" onclick="return false;" class="detail">
                 <span class="item-info">
                   <span class="item-title">XY</span>
                   <span class="item-desc">2017</span>
